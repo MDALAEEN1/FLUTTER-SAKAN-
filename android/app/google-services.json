@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177406776403",
+    "project_id": "chaty-10c22",
+    "storage_bucket": "chaty-10c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177406776403:android:95ba8813ac5c58347522a6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKg7gpLEMryxWvzh2gidqbtr6t5YuUIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
